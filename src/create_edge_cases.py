@@ -36,12 +36,15 @@ def main():
         edge_targets["portfolio_id"] == "PORT00001"
     ].index
 
-    edge_targets.loc[portfolio_targets, "target_weight_pct"] = 18.0
+    edge_targets.loc[
+        portfolio_targets, "target_weight_pct"
+    ] = 18.0
 
     print("Edge case 1 created: target allocation totals 90%.")
 
     # EDGE CASE 2: SELL quantity exceeds available holding.
     trade_index = edge_trades.index[0]
+
     portfolio_id = edge_trades.loc[trade_index, "portfolio_id"]
     instrument_id = edge_trades.loc[trade_index, "instrument_id"]
 
@@ -58,54 +61,74 @@ def main():
 
     print("Edge case 2 created: sell quantity exceeds holding.")
 
-    # EDGE CASE 3: Instrument is excluded.
-    excluded_id = edge_instruments.iloc[0]["instrument_id"]
+    # EDGE CASE 3: Exclude the exact instrument used in ground truth.
+    excluded_id = "INS03099"
 
     edge_instruments.loc[
         edge_instruments["instrument_id"] == excluded_id,
         "is_excluded"
     ] = True
 
-    print("Edge case 3 created: an instrument is excluded.")
+    print(f"Edge case 3 created: {excluded_id} is excluded.")
 
     # EDGE CASE 4: One trade has a missing fee.
-    edge_trades.loc[edge_trades.index[1], "fee_amount"] = float("nan")
+    edge_trades.loc[
+        edge_trades.index[1], "fee_amount"
+    ] = float("nan")
 
     print("Edge case 4 created: one trade has a missing fee.")
 
-    # EDGE CASE 5: Old price date without stale flag.
-    stale_id = edge_prices.iloc[0]["instrument_id"]
+    # EDGE CASE 5: Make the exact instrument's price history stale.
+    stale_id = "INS03845"
 
     instrument_prices = edge_prices[
         edge_prices["instrument_id"] == stale_id
     ]
 
-    latest_index = instrument_prices["price_date"].idxmax()
+    if instrument_prices.empty:
+        raise ValueError(
+            f"Instrument {stale_id} not found in market prices."
+        )
 
-    edge_prices.loc[latest_index, "price_date"] = "2025-01-01"
-    edge_prices.loc[latest_index, "is_stale"] = False
+    # Shift all its price dates back by 730 days.
+    edge_prices.loc[instrument_prices.index, "price_date"] = (
+        pd.to_datetime(
+            edge_prices.loc[instrument_prices.index, "price_date"]
+        )
+        - pd.Timedelta(days=730)
+    ).dt.strftime("%Y-%m-%d")
 
-    print("Edge case 5 created: stale price without stale flag.")
+    # Keep the stale flag false to test date-based stale detection.
+    edge_prices.loc[
+        instrument_prices.index, "is_stale"
+    ] = False
 
-    # Save the test datasets.
+    print(f"Edge case 5 created: {stale_id} has stale price history.")
+
+    # Save all edge-case datasets.
     edge_targets.to_csv(
-        PROCESSED_DIR / "edge_target_allocations.csv", index=False
+        PROCESSED_DIR / "edge_target_allocations.csv",
+        index=False
     )
 
     edge_trades.to_csv(
-        PROCESSED_DIR / "edge_trades.csv", index=False
+        PROCESSED_DIR / "edge_trades.csv",
+        index=False
     )
 
     edge_holdings.to_csv(
-        PROCESSED_DIR / "edge_holdings.csv", index=False
+        PROCESSED_DIR / "edge_holdings.csv",
+        index=False
     )
 
     edge_instruments.to_csv(
-        PROCESSED_DIR / "edge_instruments.csv", index=False
+        PROCESSED_DIR / "edge_instruments.csv",
+        index=False
     )
 
     edge_prices.to_csv(
-        PROCESSED_DIR / "edge_market_prices.csv", index=False
+        PROCESSED_DIR / "edge_market_prices.csv",
+        index=False
     )
 
     print("\nAll five edge cases created successfully.")
