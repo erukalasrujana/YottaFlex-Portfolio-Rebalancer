@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local database (regenerate using seed_data.py)
+database/portfolio.db
+database/*.db-journal
+
+# Generated edge-case datasets (recreate using create_edge_cases.py)
+data/processed/*.csv
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+
+# Secrets
+.env
+.streamlit/secrets.toml

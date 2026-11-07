@@ -1,0 +1,10 @@
+check,failed_records,result
+No duplicate portfolio-instrument rows,0,PASS
+No missing allocation values,0,PASS
+No negative post-trade instrument values,0,PASS
+Post-trade instrument weights are correct,0,PASS
+Instrument values reconcile with post-trade holdings,0,PASS
+Holdings plus cash reconcile with portfolio value,0,PASS
+Minimum cash reserve is maintained,0,PASS
+No negative allocation percentages,0,PASS
+Every portfolio has allocation records,0,PASS

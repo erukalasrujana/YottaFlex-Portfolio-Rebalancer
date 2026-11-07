@@ -1,0 +1,5 @@
+fee_schedule_id,instrument_type,commission_rate_pct,fixed_fee,minimum_fee,maximum_fee,currency
+FEE001,Stock,0.15,1.0,0.5,25.0,USD
+FEE002,Bond,0.1,1.5,0.5,20.0,USD
+FEE003,ETF,0.12,1.0,0.5,25.0,USD
+FEE004,Mutual Fund,0.2,2.0,1.0,30.0,USD

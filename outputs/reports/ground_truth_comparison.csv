@@ -1,0 +1,6 @@
+test_case_id,edge_case,expected_result,actual_result,validation,details
+EC001,Invalid target allocation,NEEDS_REVIEW,NEEDS_REVIEW,PASS,"Target weights total 90.00%, not 100%."
+EC002,Excessive sell quantity,FAIL,FAIL,PASS,Trade value does not match quantity and price. | Sell quantity 155 exceeds available holding 55.
+EC003,Excluded instrument,BLOCKED,BLOCKED,PASS,Instrument is excluded by policy.
+EC004,Missing transaction fee,FAIL,FAIL,PASS,Missing transaction fee.
+EC005,Stale market price,BLOCKED,BLOCKED,PASS,Market price is more than 7 days old.

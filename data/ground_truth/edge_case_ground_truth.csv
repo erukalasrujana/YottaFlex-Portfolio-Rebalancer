@@ -1,0 +1,6 @@
+test_case_id,edge_case,affected_record,expected_result,expected_reason
+EC001,Invalid target allocation,PORT00001,NEEDS_REVIEW,Target weights total is not 100 percent
+EC002,Excessive sell quantity,TRD00001,FAIL,Sell quantity exceeds available holding
+EC003,Excluded instrument,INS03099,BLOCKED,Instrument is excluded by policy
+EC004,Missing transaction fee,TRD00002,FAIL,Transaction fee is missing
+EC005,Stale market price,INS03845,BLOCKED,Market price is more than 7 days old

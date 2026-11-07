@@ -1,0 +1,11 @@
+check,failed_records,result
+No duplicate portfolio-instrument rows,0,PASS
+No missing recommendation fields,0,PASS
+Recommended quantities are positive,0,PASS
+SELL quantity does not exceed holdings,0,PASS
+Trade values match market prices,0,PASS
+Trades respect maximum trade value,0,PASS
+No excluded or non-tradable instruments recommended,0,PASS
+No explicitly stale prices recommended,0,PASS
+Fees match fee schedules,0,PASS
+Minimum cash reserve is maintained,0,PASS

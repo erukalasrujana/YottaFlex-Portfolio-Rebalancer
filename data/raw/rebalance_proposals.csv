@@ -1,0 +1,1001 @@
+proposal_id,portfolio_id,current_holdings_value,target_weight_total_pct,maximum_allocation_drift_pct,proposal_status,explanation
+PROP00001,PORT00001,193970.25,100.0,42.55,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00002,PORT00002,140783.21,100.0,41.21,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00003,PORT00003,120777.06,100.0,60.27,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00004,PORT00004,65600.71,100.0,79.46,Needs Review,Target allocation validation requires review.
+PROP00005,PORT00005,115735.8,100.0,19.15,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00006,PORT00006,168959.92,100.0,27.55,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00007,PORT00007,138322.96,100.0,10.35,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00008,PORT00008,69119.45,100.0,27.88,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00009,PORT00009,117701.79,100.0,45.52,Needs Review,Target allocation validation requires review.
+PROP00010,PORT00010,118306.32,100.0,23.18,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00011,PORT00011,150847.71,100.0,32.95,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00012,PORT00012,51484.76,100.0,36.6,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00013,PORT00013,102575.08,100.0,11.38,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00014,PORT00014,109919.01,100.0,22.5,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00015,PORT00015,127965.72,100.0,33.95,Needs Review,Target allocation validation requires review.
+PROP00016,PORT00016,90095.0,100.0,48.62,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00017,PORT00017,129674.92,100.0,42.99,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00018,PORT00018,85196.64,100.0,31.05,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00019,PORT00019,107551.69,100.0,59.2,Needs Review,Target allocation validation requires review.
+PROP00020,PORT00020,141929.79,100.0,59.48,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00021,PORT00021,139559.42,100.0,33.0,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00022,PORT00022,127308.23,100.0,45.74,Needs Review,Target allocation validation requires review.
+PROP00023,PORT00023,187008.28,100.0,39.54,Needs Review,Target allocation validation requires review.
+PROP00024,PORT00024,174143.16,100.0,51.84,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00025,PORT00025,109798.45,100.0,26.25,Needs Review,Target allocation validation requires review.
+PROP00026,PORT00026,40239.45,100.0,41.19,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00027,PORT00027,136832.94,100.0,44.01,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00028,PORT00028,224944.21,100.0,40.14,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00029,PORT00029,135210.58,100.0,8.66,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00030,PORT00030,211312.74,100.0,11.37,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00031,PORT00031,219810.78,100.0,54.86,Needs Review,Target allocation validation requires review.
+PROP00032,PORT00032,159492.35,100.0,49.43,Needs Review,Target allocation validation requires review.
+PROP00033,PORT00033,182477.7,100.0,28.52,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00034,PORT00034,254280.44,100.0,19.79,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00035,PORT00035,76912.31,100.0,30.22,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00036,PORT00036,89306.44,100.0,28.82,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00037,PORT00037,215176.54,100.0,18.84,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00038,PORT00038,89129.09,100.0,29.71,Needs Review,Target allocation validation requires review.
+PROP00039,PORT00039,104041.21,100.0,37.08,Needs Review,Target allocation validation requires review.
+PROP00040,PORT00040,91317.91,100.0,20.32,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00041,PORT00041,184400.9,100.0,56.15,Needs Review,Target allocation validation requires review.
+PROP00042,PORT00042,149879.68,100.0,42.04,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00043,PORT00043,138526.27,100.0,32.65,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00044,PORT00044,185006.99,100.0,35.3,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00045,PORT00045,125519.45,100.0,42.94,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00046,PORT00046,101793.97,100.0,23.34,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00047,PORT00047,151864.47,100.0,17.21,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00048,PORT00048,68585.31,100.0,23.02,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00049,PORT00049,124221.15,100.0,19.51,Needs Review,Target allocation validation requires review.
+PROP00050,PORT00050,126926.32,100.0,40.41,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00051,PORT00051,56000.08,100.0,65.62,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00052,PORT00052,89163.61,100.0,25.1,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00053,PORT00053,110816.5,100.0,24.52,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00054,PORT00054,122477.06,100.0,30.21,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00055,PORT00055,113352.36,100.0,37.69,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00056,PORT00056,206300.81,100.0,20.46,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00057,PORT00057,57365.73,100.0,10.63,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00058,PORT00058,149798.93,100.0,14.4,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00059,PORT00059,205490.9,100.0,25.07,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00060,PORT00060,149762.47,100.0,36.08,Needs Review,Target allocation validation requires review.
+PROP00061,PORT00061,144173.49,100.0,35.21,Needs Review,Target allocation validation requires review.
+PROP00062,PORT00062,241620.15,100.0,54.21,Needs Review,Target allocation validation requires review.
+PROP00063,PORT00063,170848.44,100.0,47.88,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00064,PORT00064,85939.78,100.0,31.32,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00065,PORT00065,137476.24,100.0,35.08,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00066,PORT00066,91096.98,100.0,13.83,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00067,PORT00067,157687.3,100.0,60.56,Needs Review,Target allocation validation requires review.
+PROP00068,PORT00068,24591.96,100.0,31.71,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00069,PORT00069,156090.91,100.0,32.86,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00070,PORT00070,133499.79,100.0,35.7,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00071,PORT00071,150206.91,100.0,16.78,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00072,PORT00072,161753.52,100.0,33.97,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00073,PORT00073,142254.37,100.0,44.49,Needs Review,Target allocation validation requires review.
+PROP00074,PORT00074,138195.69,100.0,40.63,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00075,PORT00075,85062.62,100.0,56.94,Needs Review,Target allocation validation requires review.
+PROP00076,PORT00076,88988.23,100.0,25.58,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00077,PORT00077,161780.44,100.0,38.03,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00078,PORT00078,177710.04,100.0,29.66,Needs Review,Target allocation validation requires review.
+PROP00079,PORT00079,153843.9,100.0,48.85,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00080,PORT00080,161887.24,100.0,24.76,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00081,PORT00081,71961.34,100.0,31.25,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00082,PORT00082,61309.2,100.0,19.2,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00083,PORT00083,121063.53,100.0,29.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00084,PORT00084,177145.32,100.0,21.6,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00085,PORT00085,29815.35,100.0,20.15,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00086,PORT00086,91910.26,100.0,37.27,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00087,PORT00087,88938.4,100.0,45.04,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00088,PORT00088,92212.66,100.0,34.66,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00089,PORT00089,37380.16,100.0,41.2,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00090,PORT00090,135764.76,100.0,26.53,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00091,PORT00091,80978.62,100.0,62.23,Needs Review,Target allocation validation requires review.
+PROP00092,PORT00092,93363.19,100.0,9.42,Needs Review,Target allocation validation requires review.
+PROP00093,PORT00093,122371.41,100.0,34.52,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00094,PORT00094,113394.92,100.0,53.81,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00095,PORT00095,150893.59,100.0,41.13,Needs Review,Target allocation validation requires review.
+PROP00096,PORT00096,182084.74,100.0,21.14,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00097,PORT00097,117995.49,100.0,17.07,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00098,PORT00098,119202.55,100.0,40.95,Needs Review,Target allocation validation requires review.
+PROP00099,PORT00099,64471.73,100.0,18.08,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00100,PORT00100,110829.04,100.0,48.05,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00101,PORT00101,119369.27,100.0,47.91,Needs Review,Target allocation validation requires review.
+PROP00102,PORT00102,82375.68,100.0,26.0,Needs Review,Target allocation validation requires review.
+PROP00103,PORT00103,188480.16,100.0,41.7,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00104,PORT00104,91432.62,100.0,22.78,Needs Review,Target allocation validation requires review.
+PROP00105,PORT00105,98234.63,100.0,16.59,Needs Review,Target allocation validation requires review.
+PROP00106,PORT00106,100237.08,100.0,36.27,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00107,PORT00107,137070.98,100.0,41.32,Needs Review,Target allocation validation requires review.
+PROP00108,PORT00108,64096.46,100.0,29.8,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00109,PORT00109,148179.11,100.0,25.23,Needs Review,Target allocation validation requires review.
+PROP00110,PORT00110,88736.23,100.0,53.49,Needs Review,Target allocation validation requires review.
+PROP00111,PORT00111,117899.17,100.0,28.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00112,PORT00112,201265.39,100.0,37.98,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00113,PORT00113,216872.58,100.0,39.22,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00114,PORT00114,131519.58,100.0,24.47,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00115,PORT00115,146121.29,100.0,22.64,Needs Review,Target allocation validation requires review.
+PROP00116,PORT00116,110241.84,100.0,38.74,Needs Review,Target allocation validation requires review.
+PROP00117,PORT00117,101485.8,100.0,21.83,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00118,PORT00118,161072.52,100.0,40.49,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00119,PORT00119,121031.62,100.0,57.83,Needs Review,Target allocation validation requires review.
+PROP00120,PORT00120,91821.36,100.0,32.71,Needs Review,Target allocation validation requires review.
+PROP00121,PORT00121,87708.18,100.0,34.02,Needs Review,Target allocation validation requires review.
+PROP00122,PORT00122,67902.51,100.0,45.02,Needs Review,Target allocation validation requires review.
+PROP00123,PORT00123,157283.94,100.0,11.52,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00124,PORT00124,80142.06,100.0,33.4,Needs Review,Target allocation validation requires review.
+PROP00125,PORT00125,210493.55,100.0,38.1,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00126,PORT00126,124632.87,100.0,43.48,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00127,PORT00127,43586.86,100.0,42.16,Needs Review,Target allocation validation requires review.
+PROP00128,PORT00128,111375.09,100.0,19.31,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00129,PORT00129,184118.6,100.0,21.83,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00130,PORT00130,139229.42,100.0,29.38,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00131,PORT00131,124256.67,100.0,22.18,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00132,PORT00132,62079.48,100.0,31.16,Needs Review,Target allocation validation requires review.
+PROP00133,PORT00133,183453.75,100.0,39.75,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00134,PORT00134,107686.31,100.0,37.79,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00135,PORT00135,151498.19,100.0,67.21,Needs Review,Target allocation validation requires review.
+PROP00136,PORT00136,192735.66,100.0,21.73,Needs Review,Target allocation validation requires review.
+PROP00137,PORT00137,55122.75,100.0,54.43,Needs Review,Target allocation validation requires review.
+PROP00138,PORT00138,91607.74,100.0,46.73,Needs Review,Target allocation validation requires review.
+PROP00139,PORT00139,103811.96,100.0,29.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00140,PORT00140,54282.16,100.0,49.34,Needs Review,Target allocation validation requires review.
+PROP00141,PORT00141,125478.32,100.0,29.27,Needs Review,Target allocation validation requires review.
+PROP00142,PORT00142,146894.58,100.0,39.13,Needs Review,Target allocation validation requires review.
+PROP00143,PORT00143,178579.4,100.0,45.83,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00144,PORT00144,100331.0,100.0,15.12,Needs Review,Target allocation validation requires review.
+PROP00145,PORT00145,120815.57,100.0,27.78,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00146,PORT00146,130091.02,100.0,46.79,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00147,PORT00147,82374.38,100.0,33.14,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00148,PORT00148,119366.35,100.0,74.34,Needs Review,Target allocation validation requires review.
+PROP00149,PORT00149,167767.77,100.0,64.25,Needs Review,Target allocation validation requires review.
+PROP00150,PORT00150,133734.96,100.0,8.71,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00151,PORT00151,127996.23,100.0,44.88,Needs Review,Target allocation validation requires review.
+PROP00152,PORT00152,115414.36,100.0,31.09,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00153,PORT00153,142729.19,100.0,50.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00154,PORT00154,32950.52,100.0,42.53,Needs Review,Target allocation validation requires review.
+PROP00155,PORT00155,108473.18,100.0,39.57,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00156,PORT00156,135102.12,100.0,22.4,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00157,PORT00157,135976.16,100.0,56.16,Needs Review,Target allocation validation requires review.
+PROP00158,PORT00158,89316.81,100.0,16.93,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00159,PORT00159,115261.68,100.0,54.57,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00160,PORT00160,98733.98,100.0,40.58,Needs Review,Target allocation validation requires review.
+PROP00161,PORT00161,270908.74,100.0,15.94,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00162,PORT00162,222040.74,100.0,21.07,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00163,PORT00163,219066.91,100.0,54.33,Needs Review,Target allocation validation requires review.
+PROP00164,PORT00164,82050.97,100.0,62.71,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00165,PORT00165,145997.0,100.0,52.57,Needs Review,Target allocation validation requires review.
+PROP00166,PORT00166,89926.75,100.0,51.94,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00167,PORT00167,65265.67,100.0,25.19,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00168,PORT00168,66975.94,100.0,31.94,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00169,PORT00169,152138.21,100.0,38.98,Needs Review,Target allocation validation requires review.
+PROP00170,PORT00170,120267.87,100.0,53.56,Needs Review,Target allocation validation requires review.
+PROP00171,PORT00171,96289.31,100.0,54.01,Needs Review,Target allocation validation requires review.
+PROP00172,PORT00172,62515.16,100.0,41.9,Needs Review,Target allocation validation requires review.
+PROP00173,PORT00173,174739.21,100.0,21.24,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00174,PORT00174,118710.12,100.0,26.5,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00175,PORT00175,48247.35,100.0,28.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00176,PORT00176,135260.6,100.0,47.7,Needs Review,Target allocation validation requires review.
+PROP00177,PORT00177,131608.78,100.0,38.89,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00178,PORT00178,128863.13,100.0,22.34,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00179,PORT00179,175059.2,100.0,26.57,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00180,PORT00180,87153.53,100.0,33.55,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00181,PORT00181,51383.1,100.0,39.82,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00182,PORT00182,74667.9,100.0,20.16,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00183,PORT00183,220109.32,100.0,32.77,Needs Review,Target allocation validation requires review.
+PROP00184,PORT00184,147156.51,100.0,27.1,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00185,PORT00185,130269.39,100.0,25.36,Needs Review,Target allocation validation requires review.
+PROP00186,PORT00186,159495.43,100.0,68.47,Needs Review,Target allocation validation requires review.
+PROP00187,PORT00187,134770.33,100.0,41.94,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00188,PORT00188,182452.43,100.0,27.36,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00189,PORT00189,51941.54,100.0,48.17,Needs Review,Target allocation validation requires review.
+PROP00190,PORT00190,174805.26,100.0,39.11,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00191,PORT00191,118369.2,100.0,29.58,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00192,PORT00192,72627.65,100.0,34.62,Needs Review,Target allocation validation requires review.
+PROP00193,PORT00193,118036.67,100.0,26.02,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00194,PORT00194,116967.68,100.0,25.69,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00195,PORT00195,193199.39,100.0,30.05,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00196,PORT00196,68541.38,100.0,28.53,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00197,PORT00197,86859.02,100.0,28.24,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00198,PORT00198,171443.95,100.0,74.17,Needs Review,Target allocation validation requires review.
+PROP00199,PORT00199,69735.11,100.0,7.62,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00200,PORT00200,171079.5,100.0,41.05,Needs Review,Target allocation validation requires review.
+PROP00201,PORT00201,80339.18,100.0,39.93,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00202,PORT00202,131950.25,100.0,29.37,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00203,PORT00203,102574.55,100.0,56.22,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00204,PORT00204,194410.91,100.0,34.23,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00205,PORT00205,67591.92,100.0,35.88,Needs Review,Target allocation validation requires review.
+PROP00206,PORT00206,140018.25,100.0,55.15,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00207,PORT00207,97418.86,100.0,32.51,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00208,PORT00208,153833.25,100.0,31.2,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00209,PORT00209,98835.27,100.0,22.46,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00210,PORT00210,91059.25,100.0,60.77,Needs Review,Target allocation validation requires review.
+PROP00211,PORT00211,117474.56,100.0,15.22,Needs Review,Target allocation validation requires review.
+PROP00212,PORT00212,152645.71,100.0,15.1,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00213,PORT00213,95135.8,100.0,41.11,Needs Review,Target allocation validation requires review.
+PROP00214,PORT00214,210421.47,100.0,42.18,Needs Review,Target allocation validation requires review.
+PROP00215,PORT00215,227416.05,100.0,14.45,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00216,PORT00216,139920.04,100.0,43.57,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00217,PORT00217,124548.91,100.0,43.11,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00218,PORT00218,73480.14,100.0,79.27,Needs Review,Target allocation validation requires review.
+PROP00219,PORT00219,60088.71,100.0,67.58,Needs Review,Target allocation validation requires review.
+PROP00220,PORT00220,179262.18,100.0,43.74,Needs Review,Target allocation validation requires review.
+PROP00221,PORT00221,76354.8,100.0,12.53,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00222,PORT00222,210837.75,100.0,30.27,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00223,PORT00223,286988.96,100.0,27.38,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00224,PORT00224,64879.56,100.0,42.22,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00225,PORT00225,176356.75,100.0,29.4,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00226,PORT00226,125648.93,100.0,46.72,Needs Review,Target allocation validation requires review.
+PROP00227,PORT00227,170138.12,100.0,36.47,Needs Review,Target allocation validation requires review.
+PROP00228,PORT00228,68323.34,100.0,41.62,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00229,PORT00229,33634.28,100.0,36.18,Needs Review,Target allocation validation requires review.
+PROP00230,PORT00230,85783.49,100.0,51.38,Needs Review,Target allocation validation requires review.
+PROP00231,PORT00231,165462.02,100.0,22.43,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00232,PORT00232,89256.66,100.0,65.85,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00233,PORT00233,179247.82,100.0,19.22,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00234,PORT00234,189947.9,100.0,37.86,Needs Review,Target allocation validation requires review.
+PROP00235,PORT00235,123618.25,100.0,48.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00236,PORT00236,83981.78,100.0,31.26,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00237,PORT00237,174774.89,100.0,29.5,Needs Review,Target allocation validation requires review.
+PROP00238,PORT00238,62252.4,100.0,37.17,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00239,PORT00239,40787.75,100.0,58.87,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00240,PORT00240,58424.55,100.0,44.96,Needs Review,Target allocation validation requires review.
+PROP00241,PORT00241,78312.83,100.0,61.8,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00242,PORT00242,102398.68,100.0,29.14,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00243,PORT00243,136543.85,100.0,39.38,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00244,PORT00244,124533.92,100.0,36.4,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00245,PORT00245,118286.66,100.0,19.23,Needs Review,Target allocation validation requires review.
+PROP00246,PORT00246,87192.9,100.0,39.27,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00247,PORT00247,187261.41,100.0,26.66,Needs Review,Target allocation validation requires review.
+PROP00248,PORT00248,100820.9,100.0,51.21,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00249,PORT00249,254985.57,100.0,22.04,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00250,PORT00250,87557.19,100.0,77.29,Needs Review,Target allocation validation requires review.
+PROP00251,PORT00251,237325.75,100.0,11.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00252,PORT00252,92014.95,100.0,30.89,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00253,PORT00253,137853.45,100.0,32.18,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00254,PORT00254,241184.44,100.0,24.46,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00255,PORT00255,110327.62,100.0,32.7,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00256,PORT00256,132900.95,100.0,17.5,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00257,PORT00257,140673.89,100.0,45.2,Needs Review,Target allocation validation requires review.
+PROP00258,PORT00258,169269.99,100.0,21.66,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00259,PORT00259,97399.53,100.0,79.86,Needs Review,Target allocation validation requires review.
+PROP00260,PORT00260,252423.78,100.0,19.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00261,PORT00261,81128.5,100.0,20.45,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00262,PORT00262,139335.33,100.0,47.84,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00263,PORT00263,78481.72,100.0,56.37,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00264,PORT00264,122182.93,100.0,78.28,Needs Review,Target allocation validation requires review.
+PROP00265,PORT00265,58250.31,100.0,34.49,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00266,PORT00266,175337.67,100.0,49.61,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00267,PORT00267,144896.74,100.0,33.63,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00268,PORT00268,171113.88,100.0,62.77,Needs Review,Target allocation validation requires review.
+PROP00269,PORT00269,121264.22,100.0,55.26,Needs Review,Target allocation validation requires review.
+PROP00270,PORT00270,141621.4,100.0,26.4,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00271,PORT00271,131647.7,100.0,25.57,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00272,PORT00272,119710.35,100.0,26.75,Needs Review,Target allocation validation requires review.
+PROP00273,PORT00273,92204.38,100.0,31.21,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00274,PORT00274,133940.14,100.0,37.05,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00275,PORT00275,136319.98,100.0,39.96,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00276,PORT00276,103729.44,100.0,24.95,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00277,PORT00277,110387.84,100.0,33.0,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00278,PORT00278,151846.0,100.0,16.1,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00279,PORT00279,68978.91,100.0,70.68,Needs Review,Target allocation validation requires review.
+PROP00280,PORT00280,83963.85,100.0,32.64,Needs Review,Target allocation validation requires review.
+PROP00281,PORT00281,109308.74,100.0,51.35,Needs Review,Target allocation validation requires review.
+PROP00282,PORT00282,154745.23,100.0,50.83,Needs Review,Target allocation validation requires review.
+PROP00283,PORT00283,121476.14,100.0,44.24,Needs Review,Target allocation validation requires review.
+PROP00284,PORT00284,130618.53,100.0,17.73,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00285,PORT00285,85028.16,100.0,37.05,Needs Review,Target allocation validation requires review.
+PROP00286,PORT00286,226120.63,100.0,28.63,Needs Review,Target allocation validation requires review.
+PROP00287,PORT00287,143150.39,100.0,33.82,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00288,PORT00288,76991.8,100.0,16.5,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00289,PORT00289,75074.86,100.0,42.72,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00290,PORT00290,250004.97,100.0,35.77,Needs Review,Target allocation validation requires review.
+PROP00291,PORT00291,165297.7,100.0,38.13,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00292,PORT00292,211088.05,100.0,46.25,Needs Review,Target allocation validation requires review.
+PROP00293,PORT00293,159028.06,100.0,24.57,Needs Review,Target allocation validation requires review.
+PROP00294,PORT00294,79624.65,100.0,39.5,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00295,PORT00295,54043.15,100.0,7.91,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00296,PORT00296,116174.59,100.0,30.54,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00297,PORT00297,219658.77,100.0,31.69,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00298,PORT00298,109536.76,100.0,64.23,Needs Review,Target allocation validation requires review.
+PROP00299,PORT00299,90681.56,100.0,17.87,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00300,PORT00300,85538.75,100.0,33.9,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00301,PORT00301,141648.56,100.0,31.79,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00302,PORT00302,101048.84,100.0,34.52,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00303,PORT00303,161123.14,100.0,27.65,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00304,PORT00304,105787.47,100.0,49.09,Needs Review,Target allocation validation requires review.
+PROP00305,PORT00305,118458.51,100.0,32.66,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00306,PORT00306,307794.2,100.0,29.06,Needs Review,Target allocation validation requires review.
+PROP00307,PORT00307,150007.11,100.0,60.97,Needs Review,Target allocation validation requires review.
+PROP00308,PORT00308,224004.85,100.0,25.78,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00309,PORT00309,160841.63,100.0,29.49,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00310,PORT00310,54441.35,100.0,38.95,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00311,PORT00311,144710.53,100.0,54.76,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00312,PORT00312,102297.12,100.0,47.66,Needs Review,Target allocation validation requires review.
+PROP00313,PORT00313,162708.62,100.0,35.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00314,PORT00314,265846.48,100.0,37.72,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00315,PORT00315,161555.95,100.0,31.29,Needs Review,Target allocation validation requires review.
+PROP00316,PORT00316,19713.06,100.0,12.34,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00317,PORT00317,89580.25,100.0,32.95,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00318,PORT00318,50646.24,100.0,38.21,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00319,PORT00319,80540.29,100.0,17.28,Needs Review,Target allocation validation requires review.
+PROP00320,PORT00320,176965.67,100.0,29.75,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00321,PORT00321,129819.08,100.0,34.38,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00322,PORT00322,77904.37,100.0,56.25,Needs Review,Target allocation validation requires review.
+PROP00323,PORT00323,263644.96,100.0,29.19,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00324,PORT00324,204154.71,100.0,19.5,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00325,PORT00325,190332.54,100.0,42.58,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00326,PORT00326,151094.75,100.0,38.16,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00327,PORT00327,50496.32,100.0,31.86,Needs Review,Target allocation validation requires review.
+PROP00328,PORT00328,113239.38,100.0,66.64,Needs Review,Target allocation validation requires review.
+PROP00329,PORT00329,116846.39,100.0,18.64,Needs Review,Target allocation validation requires review.
+PROP00330,PORT00330,49854.89,100.0,29.72,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00331,PORT00331,39048.23,100.0,32.74,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00332,PORT00332,154951.66,100.0,44.53,Needs Review,Target allocation validation requires review.
+PROP00333,PORT00333,167595.28,100.0,25.06,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00334,PORT00334,130430.25,100.0,44.32,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00335,PORT00335,148169.65,100.0,33.26,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00336,PORT00336,85924.53,100.0,30.36,Needs Review,Target allocation validation requires review.
+PROP00337,PORT00337,111448.15,100.0,28.17,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00338,PORT00338,126047.0,100.0,24.25,Needs Review,Target allocation validation requires review.
+PROP00339,PORT00339,247120.12,100.0,23.18,Needs Review,Target allocation validation requires review.
+PROP00340,PORT00340,52050.65,100.0,74.92,Needs Review,Target allocation validation requires review.
+PROP00341,PORT00341,119226.5,100.0,27.36,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00342,PORT00342,89170.42,100.0,22.37,Needs Review,Target allocation validation requires review.
+PROP00343,PORT00343,126990.97,100.0,50.44,Needs Review,Target allocation validation requires review.
+PROP00344,PORT00344,177058.96,100.0,22.07,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00345,PORT00345,62465.66,100.0,66.95,Needs Review,Target allocation validation requires review.
+PROP00346,PORT00346,155271.81,100.0,29.22,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00347,PORT00347,116685.29,100.0,37.17,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00348,PORT00348,113569.39,100.0,52.44,Needs Review,Target allocation validation requires review.
+PROP00349,PORT00349,136532.67,100.0,36.67,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00350,PORT00350,126223.83,100.0,57.04,Needs Review,Target allocation validation requires review.
+PROP00351,PORT00351,79948.2,100.0,38.39,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00352,PORT00352,178087.63,100.0,34.97,Needs Review,Target allocation validation requires review.
+PROP00353,PORT00353,137695.61,100.0,29.59,Needs Review,Target allocation validation requires review.
+PROP00354,PORT00354,203671.55,100.0,36.06,Needs Review,Target allocation validation requires review.
+PROP00355,PORT00355,122788.07,100.0,27.52,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00356,PORT00356,168433.95,100.0,44.17,Needs Review,Target allocation validation requires review.
+PROP00357,PORT00357,76988.46,100.0,38.6,Needs Review,Target allocation validation requires review.
+PROP00358,PORT00358,76480.6,100.0,17.88,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00359,PORT00359,73261.31,100.0,40.24,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00360,PORT00360,154750.31,100.0,38.96,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00361,PORT00361,136269.75,100.0,17.43,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00362,PORT00362,153849.35,100.0,30.27,Needs Review,Target allocation validation requires review.
+PROP00363,PORT00363,150135.96,100.0,21.87,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00364,PORT00364,57023.39,100.0,33.91,Needs Review,Target allocation validation requires review.
+PROP00365,PORT00365,194066.74,100.0,28.09,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00366,PORT00366,104212.69,100.0,34.34,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00367,PORT00367,166529.92,100.0,26.95,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00368,PORT00368,137213.75,100.0,20.72,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00369,PORT00369,110971.04,100.0,21.82,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00370,PORT00370,108228.22,100.0,27.55,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00371,PORT00371,182051.12,100.0,30.11,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00372,PORT00372,86213.07,100.0,60.01,Needs Review,Target allocation validation requires review.
+PROP00373,PORT00373,107315.67,100.0,40.53,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00374,PORT00374,78232.6,100.0,28.46,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00375,PORT00375,102616.64,100.0,29.32,Needs Review,Target allocation validation requires review.
+PROP00376,PORT00376,154188.19,100.0,52.85,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00377,PORT00377,167270.98,100.0,35.71,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00378,PORT00378,128687.45,100.0,35.24,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00379,PORT00379,181449.88,100.0,19.4,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00380,PORT00380,131717.13,100.0,16.07,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00381,PORT00381,51646.87,100.0,31.38,Needs Review,Target allocation validation requires review.
+PROP00382,PORT00382,116194.17,100.0,42.32,Needs Review,Target allocation validation requires review.
+PROP00383,PORT00383,127248.19,100.0,37.13,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00384,PORT00384,193855.9,100.0,31.81,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00385,PORT00385,51410.01,100.0,48.06,Needs Review,Target allocation validation requires review.
+PROP00386,PORT00386,130940.52,100.0,29.53,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00387,PORT00387,182145.52,100.0,18.0,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00388,PORT00388,111733.69,100.0,35.36,Needs Review,Target allocation validation requires review.
+PROP00389,PORT00389,213182.17,100.0,19.91,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00390,PORT00390,68900.46,100.0,17.32,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00391,PORT00391,87760.22,100.0,35.49,Needs Review,Target allocation validation requires review.
+PROP00392,PORT00392,46773.05,100.0,33.03,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00393,PORT00393,99605.01,100.0,15.37,Needs Review,Target allocation validation requires review.
+PROP00394,PORT00394,167554.47,100.0,32.33,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00395,PORT00395,128291.61,100.0,33.02,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00396,PORT00396,57907.89,100.0,45.42,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00397,PORT00397,83880.54,100.0,13.21,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00398,PORT00398,89357.09,100.0,40.1,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00399,PORT00399,96489.42,100.0,18.6,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00400,PORT00400,120021.39,100.0,20.16,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00401,PORT00401,62123.7,100.0,52.09,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00402,PORT00402,31472.61,100.0,58.73,Needs Review,Target allocation validation requires review.
+PROP00403,PORT00403,109590.31,100.0,70.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00404,PORT00404,109244.6,100.0,43.5,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00405,PORT00405,178585.97,100.0,17.77,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00406,PORT00406,74428.75,100.0,21.93,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00407,PORT00407,127033.46,100.0,43.72,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00408,PORT00408,92224.2,100.0,43.72,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00409,PORT00409,157448.74,100.0,56.18,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00410,PORT00410,120982.44,100.0,43.68,Needs Review,Target allocation validation requires review.
+PROP00411,PORT00411,42776.64,100.0,44.97,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00412,PORT00412,82990.93,100.0,65.6,Needs Review,Target allocation validation requires review.
+PROP00413,PORT00413,228515.26,100.0,26.68,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00414,PORT00414,158240.2,100.0,15.43,Needs Review,Target allocation validation requires review.
+PROP00415,PORT00415,175430.59,100.0,64.39,Needs Review,Target allocation validation requires review.
+PROP00416,PORT00416,109711.27,100.0,41.69,Needs Review,Target allocation validation requires review.
+PROP00417,PORT00417,165901.79,100.0,6.11,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00418,PORT00418,118544.29,100.0,33.54,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00419,PORT00419,124144.11,100.0,15.7,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00420,PORT00420,77582.15,100.0,39.76,Needs Review,Target allocation validation requires review.
+PROP00421,PORT00421,21980.45,100.0,65.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00422,PORT00422,38548.1,100.0,29.68,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00423,PORT00423,55939.93,100.0,49.88,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00424,PORT00424,79276.9,100.0,47.91,Needs Review,Target allocation validation requires review.
+PROP00425,PORT00425,82165.41,100.0,22.61,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00426,PORT00426,79354.64,100.0,64.37,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00427,PORT00427,46009.91,100.0,30.17,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00428,PORT00428,129156.32,100.0,35.36,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00429,PORT00429,86035.73,100.0,13.29,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00430,PORT00430,224360.6,100.0,28.27,Needs Review,Target allocation validation requires review.
+PROP00431,PORT00431,94679.64,100.0,42.76,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00432,PORT00432,139457.71,100.0,59.18,Needs Review,Target allocation validation requires review.
+PROP00433,PORT00433,196625.14,100.0,44.98,Needs Review,Target allocation validation requires review.
+PROP00434,PORT00434,98315.72,100.0,43.32,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00435,PORT00435,102467.41,100.0,40.2,Needs Review,Target allocation validation requires review.
+PROP00436,PORT00436,57398.55,100.0,57.06,Needs Review,Target allocation validation requires review.
+PROP00437,PORT00437,109075.52,100.0,64.05,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00438,PORT00438,173914.2,100.0,31.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00439,PORT00439,75446.94,100.0,16.18,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00440,PORT00440,171058.93,100.0,19.56,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00441,PORT00441,264753.59,100.0,20.3,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00442,PORT00442,59410.16,100.0,38.84,Needs Review,Target allocation validation requires review.
+PROP00443,PORT00443,94134.36,100.0,36.82,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00444,PORT00444,126116.05,100.0,22.08,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00445,PORT00445,211169.71,100.0,37.15,Needs Review,Target allocation validation requires review.
+PROP00446,PORT00446,108363.77,100.0,15.32,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00447,PORT00447,146807.85,100.0,34.32,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00448,PORT00448,144434.88,100.0,25.46,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00449,PORT00449,125152.73,100.0,36.61,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00450,PORT00450,162351.31,100.0,19.62,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00451,PORT00451,235092.03,100.0,29.43,Needs Review,Target allocation validation requires review.
+PROP00452,PORT00452,141439.54,100.0,27.92,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00453,PORT00453,84122.62,100.0,48.58,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00454,PORT00454,78995.21,100.0,26.56,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00455,PORT00455,89579.58,100.0,29.7,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00456,PORT00456,152819.69,100.0,75.6,Needs Review,Target allocation validation requires review.
+PROP00457,PORT00457,108261.01,100.0,53.1,Needs Review,Target allocation validation requires review.
+PROP00458,PORT00458,83579.33,100.0,18.95,Needs Review,Target allocation validation requires review.
+PROP00459,PORT00459,89794.12,100.0,26.94,Needs Review,Target allocation validation requires review.
+PROP00460,PORT00460,122129.15,100.0,32.94,Needs Review,Target allocation validation requires review.
+PROP00461,PORT00461,215823.51,100.0,32.76,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00462,PORT00462,233742.12,100.0,34.5,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00463,PORT00463,57826.11,100.0,59.18,Needs Review,Target allocation validation requires review.
+PROP00464,PORT00464,117122.57,100.0,32.42,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00465,PORT00465,87540.88,100.0,43.4,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00466,PORT00466,161226.69,100.0,16.42,Needs Review,Target allocation validation requires review.
+PROP00467,PORT00467,198942.26,100.0,11.75,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00468,PORT00468,245618.8,100.0,31.63,Needs Review,Target allocation validation requires review.
+PROP00469,PORT00469,71091.53,100.0,22.08,Needs Review,Target allocation validation requires review.
+PROP00470,PORT00470,85570.45,100.0,39.91,Needs Review,Target allocation validation requires review.
+PROP00471,PORT00471,55904.0,100.0,16.63,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00472,PORT00472,140774.24,100.0,26.17,Needs Review,Target allocation validation requires review.
+PROP00473,PORT00473,189871.39,100.0,50.58,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00474,PORT00474,99739.13,100.0,21.16,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00475,PORT00475,106842.28,100.0,15.1,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00476,PORT00476,85504.37,100.0,44.56,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00477,PORT00477,117193.76,100.0,27.15,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00478,PORT00478,172269.53,100.0,40.68,Needs Review,Target allocation validation requires review.
+PROP00479,PORT00479,142615.02,100.0,13.14,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00480,PORT00480,92653.25,100.0,64.92,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00481,PORT00481,86692.75,100.0,32.08,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00482,PORT00482,111858.0,100.0,33.52,Needs Review,Target allocation validation requires review.
+PROP00483,PORT00483,131469.82,100.0,54.68,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00484,PORT00484,105577.72,100.0,77.72,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00485,PORT00485,163956.31,100.0,30.71,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00486,PORT00486,59477.28,100.0,24.98,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00487,PORT00487,154913.57,100.0,41.78,Needs Review,Target allocation validation requires review.
+PROP00488,PORT00488,194198.28,100.0,59.37,Needs Review,Target allocation validation requires review.
+PROP00489,PORT00489,103752.37,100.0,28.16,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00490,PORT00490,66575.19,100.0,36.46,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00491,PORT00491,180613.22,100.0,40.11,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00492,PORT00492,178626.07,100.0,6.87,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00493,PORT00493,46194.21,100.0,21.86,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00494,PORT00494,109531.91,100.0,26.29,Needs Review,Target allocation validation requires review.
+PROP00495,PORT00495,96745.38,100.0,30.77,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00496,PORT00496,212880.31,100.0,28.61,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00497,PORT00497,135234.1,100.0,43.15,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00498,PORT00498,89855.29,100.0,44.79,Needs Review,Target allocation validation requires review.
+PROP00499,PORT00499,226854.84,100.0,42.21,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00500,PORT00500,175254.98,100.0,41.98,Needs Review,Target allocation validation requires review.
+PROP00501,PORT00501,152411.92,100.0,47.34,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00502,PORT00502,173616.9,100.0,33.42,Needs Review,Target allocation validation requires review.
+PROP00503,PORT00503,131752.37,100.0,61.39,Needs Review,Target allocation validation requires review.
+PROP00504,PORT00504,101695.85,100.0,29.73,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00505,PORT00505,123016.53,100.0,21.67,Needs Review,Target allocation validation requires review.
+PROP00506,PORT00506,156132.23,100.0,52.9,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00507,PORT00507,71775.73,100.0,7.28,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00508,PORT00508,105027.46,100.0,40.78,Needs Review,Target allocation validation requires review.
+PROP00509,PORT00509,133887.11,100.0,37.4,Needs Review,Target allocation validation requires review.
+PROP00510,PORT00510,116733.31,100.0,48.83,Needs Review,Target allocation validation requires review.
+PROP00511,PORT00511,91889.0,100.0,41.2,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00512,PORT00512,55967.82,100.0,14.82,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00513,PORT00513,111776.77,100.0,34.57,Needs Review,Target allocation validation requires review.
+PROP00514,PORT00514,234124.36,100.0,24.66,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00515,PORT00515,156813.71,100.0,19.92,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00516,PORT00516,176649.25,100.0,71.41,Needs Review,Target allocation validation requires review.
+PROP00517,PORT00517,91352.74,100.0,39.87,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00518,PORT00518,135124.67,100.0,44.14,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00519,PORT00519,147534.18,100.0,32.77,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00520,PORT00520,80343.51,100.0,39.2,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00521,PORT00521,115355.91,100.0,28.89,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00522,PORT00522,116864.65,100.0,69.86,Needs Review,Target allocation validation requires review.
+PROP00523,PORT00523,128203.6,100.0,49.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00524,PORT00524,164274.35,100.0,27.88,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00525,PORT00525,168741.8,100.0,35.43,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00526,PORT00526,124555.83,100.0,13.97,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00527,PORT00527,55519.15,100.0,26.47,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00528,PORT00528,119493.32,100.0,38.97,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00529,PORT00529,123358.95,100.0,20.26,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00530,PORT00530,91460.07,100.0,32.61,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00531,PORT00531,172058.06,100.0,46.6,Needs Review,Target allocation validation requires review.
+PROP00532,PORT00532,119006.48,100.0,54.54,Needs Review,Target allocation validation requires review.
+PROP00533,PORT00533,91739.88,100.0,45.16,Needs Review,Target allocation validation requires review.
+PROP00534,PORT00534,122854.05,100.0,16.3,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00535,PORT00535,92624.03,100.0,53.04,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00536,PORT00536,86288.39,100.0,36.64,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00537,PORT00537,75991.19,100.0,39.09,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00538,PORT00538,93879.56,100.0,54.12,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00539,PORT00539,125893.4,100.0,28.54,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00540,PORT00540,139379.9,100.0,55.52,Needs Review,Target allocation validation requires review.
+PROP00541,PORT00541,62342.01,100.0,42.62,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00542,PORT00542,173382.75,100.0,32.02,Needs Review,Target allocation validation requires review.
+PROP00543,PORT00543,122563.7,100.0,20.98,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00544,PORT00544,172969.15,100.0,42.93,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00545,PORT00545,221802.12,100.0,48.43,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00546,PORT00546,62788.39,100.0,44.25,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00547,PORT00547,177987.3,100.0,23.56,Needs Review,Target allocation validation requires review.
+PROP00548,PORT00548,45613.76,100.0,28.09,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00549,PORT00549,207650.75,100.0,25.72,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00550,PORT00550,66468.72,100.0,32.22,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00551,PORT00551,128906.75,100.0,40.74,Needs Review,Target allocation validation requires review.
+PROP00552,PORT00552,116338.88,100.0,51.66,Needs Review,Target allocation validation requires review.
+PROP00553,PORT00553,55856.1,100.0,40.66,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00554,PORT00554,151698.32,100.0,40.87,Needs Review,Target allocation validation requires review.
+PROP00555,PORT00555,199763.52,100.0,66.54,Needs Review,Target allocation validation requires review.
+PROP00556,PORT00556,64558.28,100.0,38.39,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00557,PORT00557,138834.76,100.0,47.78,Needs Review,Target allocation validation requires review.
+PROP00558,PORT00558,176995.72,100.0,32.86,Needs Review,Target allocation validation requires review.
+PROP00559,PORT00559,148857.26,100.0,47.77,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00560,PORT00560,83730.44,100.0,53.39,Needs Review,Target allocation validation requires review.
+PROP00561,PORT00561,93507.84,100.0,38.37,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00562,PORT00562,76573.68,100.0,32.52,Needs Review,Target allocation validation requires review.
+PROP00563,PORT00563,141156.11,100.0,53.07,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00564,PORT00564,182896.02,100.0,37.76,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00565,PORT00565,119177.1,100.0,34.72,Needs Review,Target allocation validation requires review.
+PROP00566,PORT00566,120771.11,100.0,38.68,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00567,PORT00567,275260.44,100.0,32.37,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00568,PORT00568,120455.35,100.0,32.99,Needs Review,Target allocation validation requires review.
+PROP00569,PORT00569,72890.69,100.0,26.01,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00570,PORT00570,229515.39,100.0,46.5,Needs Review,Target allocation validation requires review.
+PROP00571,PORT00571,157557.05,100.0,16.4,Needs Review,Target allocation validation requires review.
+PROP00572,PORT00572,107164.81,100.0,31.9,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00573,PORT00573,177617.3,100.0,39.86,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00574,PORT00574,22427.82,100.0,26.16,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00575,PORT00575,207456.3,100.0,37.55,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00576,PORT00576,140452.23,100.0,61.31,Needs Review,Target allocation validation requires review.
+PROP00577,PORT00577,115730.21,100.0,11.26,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00578,PORT00578,95357.22,100.0,45.36,Needs Review,Target allocation validation requires review.
+PROP00579,PORT00579,92381.53,100.0,21.77,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00580,PORT00580,265229.7,100.0,38.93,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00581,PORT00581,70744.49,100.0,28.88,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00582,PORT00582,71775.68,100.0,39.79,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00583,PORT00583,35689.81,100.0,33.72,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00584,PORT00584,276839.69,100.0,21.73,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00585,PORT00585,49656.55,100.0,53.65,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00586,PORT00586,109860.77,100.0,15.82,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00587,PORT00587,95374.03,100.0,61.49,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00588,PORT00588,145420.62,100.0,32.01,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00589,PORT00589,52093.39,100.0,33.77,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00590,PORT00590,127441.25,100.0,23.44,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00591,PORT00591,135646.72,100.0,13.38,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00592,PORT00592,131370.4,100.0,50.94,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00593,PORT00593,166467.13,100.0,10.71,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00594,PORT00594,156802.33,100.0,31.94,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00595,PORT00595,89151.91,100.0,33.24,Needs Review,Target allocation validation requires review.
+PROP00596,PORT00596,169474.42,100.0,30.32,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00597,PORT00597,167480.45,100.0,49.76,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00598,PORT00598,161283.81,100.0,23.74,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00599,PORT00599,157865.62,100.0,28.61,Needs Review,Target allocation validation requires review.
+PROP00600,PORT00600,136365.2,100.0,40.1,Needs Review,Target allocation validation requires review.
+PROP00601,PORT00601,198981.19,100.0,38.58,Needs Review,Target allocation validation requires review.
+PROP00602,PORT00602,121827.81,100.0,48.99,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00603,PORT00603,182934.92,100.0,36.92,Needs Review,Target allocation validation requires review.
+PROP00604,PORT00604,95542.01,100.0,30.33,Needs Review,Target allocation validation requires review.
+PROP00605,PORT00605,96565.77,100.0,38.76,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00606,PORT00606,117418.97,100.0,46.7,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00607,PORT00607,78501.8,100.0,66.14,Needs Review,Target allocation validation requires review.
+PROP00608,PORT00608,212694.86,100.0,20.77,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00609,PORT00609,146972.65,100.0,29.06,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00610,PORT00610,179832.56,100.0,32.55,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00611,PORT00611,66524.27,100.0,43.71,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00612,PORT00612,95270.64,100.0,59.27,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00613,PORT00613,63322.61,100.0,29.11,Needs Review,Target allocation validation requires review.
+PROP00614,PORT00614,164061.3,100.0,23.19,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00615,PORT00615,209504.42,100.0,42.18,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00616,PORT00616,48500.76,100.0,32.06,Needs Review,Target allocation validation requires review.
+PROP00617,PORT00617,118060.51,100.0,31.22,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00618,PORT00618,98824.18,100.0,18.2,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00619,PORT00619,113901.5,100.0,54.58,Needs Review,Target allocation validation requires review.
+PROP00620,PORT00620,208298.45,100.0,72.68,Needs Review,Target allocation validation requires review.
+PROP00621,PORT00621,187000.97,100.0,25.11,Needs Review,Target allocation validation requires review.
+PROP00622,PORT00622,99273.63,100.0,40.84,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00623,PORT00623,105353.04,100.0,27.83,Needs Review,Target allocation validation requires review.
+PROP00624,PORT00624,119309.13,100.0,48.38,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00625,PORT00625,81342.9,100.0,26.06,Needs Review,Target allocation validation requires review.
+PROP00626,PORT00626,116052.64,100.0,35.42,Needs Review,Target allocation validation requires review.
+PROP00627,PORT00627,150701.94,100.0,32.73,Needs Review,Target allocation validation requires review.
+PROP00628,PORT00628,65694.95,100.0,50.12,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00629,PORT00629,143936.81,100.0,37.28,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00630,PORT00630,224544.71,100.0,33.94,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00631,PORT00631,115263.49,100.0,54.16,Needs Review,Target allocation validation requires review.
+PROP00632,PORT00632,172939.46,100.0,74.05,Needs Review,Target allocation validation requires review.
+PROP00633,PORT00633,164880.29,100.0,12.72,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00634,PORT00634,191514.61,100.0,27.49,Needs Review,Target allocation validation requires review.
+PROP00635,PORT00635,44474.41,100.0,15.94,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00636,PORT00636,93294.97,100.0,46.87,Needs Review,Target allocation validation requires review.
+PROP00637,PORT00637,110735.45,100.0,54.41,Needs Review,Target allocation validation requires review.
+PROP00638,PORT00638,85876.2,100.0,35.63,Needs Review,Target allocation validation requires review.
+PROP00639,PORT00639,257254.36,100.0,25.64,Needs Review,Target allocation validation requires review.
+PROP00640,PORT00640,163499.55,100.0,53.69,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00641,PORT00641,140735.01,100.0,21.14,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00642,PORT00642,97344.6,100.0,37.56,Needs Review,Target allocation validation requires review.
+PROP00643,PORT00643,146363.03,100.0,53.51,Needs Review,Target allocation validation requires review.
+PROP00644,PORT00644,248247.61,100.0,39.87,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00645,PORT00645,154371.77,100.0,37.66,Needs Review,Target allocation validation requires review.
+PROP00646,PORT00646,83956.99,100.0,17.4,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00647,PORT00647,201716.09,100.0,31.8,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00648,PORT00648,171016.83,100.0,45.88,Needs Review,Target allocation validation requires review.
+PROP00649,PORT00649,135787.47,100.0,34.28,Needs Review,Target allocation validation requires review.
+PROP00650,PORT00650,162959.39,100.0,24.74,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00651,PORT00651,123733.24,100.0,22.85,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00652,PORT00652,185822.92,100.0,27.85,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00653,PORT00653,115937.7,100.0,35.4,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00654,PORT00654,61339.73,100.0,28.4,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00655,PORT00655,116935.86,100.0,29.87,Needs Review,Target allocation validation requires review.
+PROP00656,PORT00656,235669.51,100.0,39.1,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00657,PORT00657,60161.89,100.0,35.74,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00658,PORT00658,95281.83,100.0,25.65,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00659,PORT00659,215093.96,100.0,35.99,Needs Review,Target allocation validation requires review.
+PROP00660,PORT00660,100614.49,100.0,18.33,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00661,PORT00661,154350.29,100.0,10.95,Needs Review,Target allocation validation requires review.
+PROP00662,PORT00662,63113.61,100.0,34.38,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00663,PORT00663,129929.35,100.0,44.07,Needs Review,Target allocation validation requires review.
+PROP00664,PORT00664,124619.09,100.0,34.24,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00665,PORT00665,139285.66,100.0,33.29,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00666,PORT00666,58930.23,100.0,46.43,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00667,PORT00667,70051.66,100.0,21.02,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00668,PORT00668,142755.49,100.0,44.48,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00669,PORT00669,121983.46,100.0,37.91,Needs Review,Target allocation validation requires review.
+PROP00670,PORT00670,52325.04,100.0,47.8,Needs Review,Target allocation validation requires review.
+PROP00671,PORT00671,80919.63,100.0,35.68,Needs Review,Target allocation validation requires review.
+PROP00672,PORT00672,136302.89,100.0,9.14,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00673,PORT00673,110710.66,100.0,38.11,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00674,PORT00674,78816.09,100.0,54.43,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00675,PORT00675,136255.21,100.0,13.68,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00676,PORT00676,104629.43,100.0,61.06,Needs Review,Target allocation validation requires review.
+PROP00677,PORT00677,190438.01,100.0,39.78,Needs Review,Target allocation validation requires review.
+PROP00678,PORT00678,122039.01,100.0,57.57,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00679,PORT00679,117707.35,100.0,40.19,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00680,PORT00680,70429.15,100.0,19.47,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00681,PORT00681,61466.82,100.0,13.17,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00682,PORT00682,141872.21,100.0,58.61,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00683,PORT00683,130044.03,100.0,32.76,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00684,PORT00684,88103.8,100.0,22.81,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00685,PORT00685,109151.07,100.0,11.92,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00686,PORT00686,93271.76,100.0,31.77,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00687,PORT00687,193113.84,100.0,19.05,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00688,PORT00688,132309.14,100.0,46.43,Needs Review,Target allocation validation requires review.
+PROP00689,PORT00689,189065.91,100.0,29.92,Needs Review,Target allocation validation requires review.
+PROP00690,PORT00690,165595.76,100.0,26.07,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00691,PORT00691,95233.81,100.0,38.32,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00692,PORT00692,131581.97,100.0,29.89,Needs Review,Target allocation validation requires review.
+PROP00693,PORT00693,94154.17,100.0,29.04,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00694,PORT00694,48765.94,100.0,46.87,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00695,PORT00695,67613.8,100.0,40.76,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00696,PORT00696,210485.17,100.0,26.3,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00697,PORT00697,106423.42,100.0,13.67,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00698,PORT00698,106645.55,100.0,40.37,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00699,PORT00699,86739.46,100.0,25.09,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00700,PORT00700,107030.83,100.0,35.02,Needs Review,Target allocation validation requires review.
+PROP00701,PORT00701,205737.42,100.0,60.28,Needs Review,Target allocation validation requires review.
+PROP00702,PORT00702,85747.94,100.0,49.83,Needs Review,Target allocation validation requires review.
+PROP00703,PORT00703,167324.0,100.0,39.33,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00704,PORT00704,209791.77,100.0,40.17,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00705,PORT00705,121440.93,100.0,32.65,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00706,PORT00706,128291.77,100.0,59.35,Needs Review,Target allocation validation requires review.
+PROP00707,PORT00707,168912.36,100.0,39.18,Needs Review,Target allocation validation requires review.
+PROP00708,PORT00708,135457.5,100.0,17.83,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00709,PORT00709,89716.06,100.0,31.07,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00710,PORT00710,78386.02,100.0,7.95,Needs Review,Target allocation validation requires review.
+PROP00711,PORT00711,152131.39,100.0,50.13,Needs Review,Target allocation validation requires review.
+PROP00712,PORT00712,142091.8,100.0,31.53,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00713,PORT00713,82809.4,100.0,16.16,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00714,PORT00714,156163.62,100.0,31.95,Needs Review,Target allocation validation requires review.
+PROP00715,PORT00715,32776.48,100.0,31.72,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00716,PORT00716,90542.2,100.0,38.79,Needs Review,Target allocation validation requires review.
+PROP00717,PORT00717,132593.78,100.0,38.88,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00718,PORT00718,156473.18,100.0,38.5,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00719,PORT00719,98175.94,100.0,45.74,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00720,PORT00720,95226.38,100.0,30.6,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00721,PORT00721,161238.32,100.0,31.24,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00722,PORT00722,154193.1,100.0,37.72,Needs Review,Target allocation validation requires review.
+PROP00723,PORT00723,96325.44,100.0,43.76,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00724,PORT00724,176556.75,100.0,34.16,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00725,PORT00725,112642.25,100.0,53.09,Needs Review,Target allocation validation requires review.
+PROP00726,PORT00726,72198.74,100.0,26.66,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00727,PORT00727,119170.86,100.0,60.25,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00728,PORT00728,94434.53,100.0,15.92,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00729,PORT00729,138416.26,100.0,26.1,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00730,PORT00730,170000.29,100.0,49.77,Needs Review,Target allocation validation requires review.
+PROP00731,PORT00731,335287.04,100.0,26.98,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00732,PORT00732,190351.17,100.0,21.99,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00733,PORT00733,142780.69,100.0,33.81,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00734,PORT00734,101381.16,100.0,56.19,Needs Review,Target allocation validation requires review.
+PROP00735,PORT00735,121114.63,100.0,47.34,Needs Review,Target allocation validation requires review.
+PROP00736,PORT00736,146661.68,100.0,30.69,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00737,PORT00737,83362.86,100.0,54.72,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00738,PORT00738,146889.67,100.0,39.97,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00739,PORT00739,148565.05,100.0,13.29,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00740,PORT00740,126718.47,100.0,15.67,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00741,PORT00741,137730.13,100.0,20.16,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00742,PORT00742,173280.19,100.0,64.12,Needs Review,Target allocation validation requires review.
+PROP00743,PORT00743,131045.05,100.0,46.21,Needs Review,Target allocation validation requires review.
+PROP00744,PORT00744,88280.1,100.0,8.22,Needs Review,Target allocation validation requires review.
+PROP00745,PORT00745,107802.0,100.0,39.38,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00746,PORT00746,228486.65,100.0,30.6,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00747,PORT00747,203866.3,100.0,12.96,Needs Review,Target allocation validation requires review.
+PROP00748,PORT00748,185897.35,100.0,51.13,Needs Review,Target allocation validation requires review.
+PROP00749,PORT00749,88151.72,100.0,27.28,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00750,PORT00750,74741.68,100.0,27.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00751,PORT00751,242788.24,100.0,44.66,Needs Review,Target allocation validation requires review.
+PROP00752,PORT00752,143666.98,100.0,11.13,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00753,PORT00753,124179.55,100.0,23.13,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00754,PORT00754,85188.23,100.0,20.14,Needs Review,Target allocation validation requires review.
+PROP00755,PORT00755,130756.4,100.0,37.54,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00756,PORT00756,135104.34,100.0,49.89,Needs Review,Target allocation validation requires review.
+PROP00757,PORT00757,144528.85,100.0,28.13,Needs Review,Target allocation validation requires review.
+PROP00758,PORT00758,134699.43,100.0,35.06,Needs Review,Target allocation validation requires review.
+PROP00759,PORT00759,142833.13,100.0,40.1,Needs Review,Target allocation validation requires review.
+PROP00760,PORT00760,54921.3,100.0,15.47,Needs Review,Target allocation validation requires review.
+PROP00761,PORT00761,79102.01,100.0,24.73,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00762,PORT00762,145766.41,100.0,37.99,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00763,PORT00763,93655.34,100.0,29.68,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00764,PORT00764,135562.47,100.0,33.41,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00765,PORT00765,83808.29,100.0,51.93,Needs Review,Target allocation validation requires review.
+PROP00766,PORT00766,116777.22,100.0,46.97,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00767,PORT00767,103070.83,100.0,43.4,Needs Review,Target allocation validation requires review.
+PROP00768,PORT00768,177381.02,100.0,19.23,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00769,PORT00769,166016.19,100.0,26.95,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00770,PORT00770,118415.88,100.0,38.07,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00771,PORT00771,52939.23,100.0,13.81,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00772,PORT00772,155015.35,100.0,13.54,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00773,PORT00773,74769.82,100.0,44.95,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00774,PORT00774,137881.59,100.0,43.6,Needs Review,Target allocation validation requires review.
+PROP00775,PORT00775,132922.54,100.0,20.66,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00776,PORT00776,244179.6,100.0,48.59,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00777,PORT00777,210419.94,100.0,32.22,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00778,PORT00778,80249.81,100.0,40.35,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00779,PORT00779,88855.16,100.0,43.61,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00780,PORT00780,86685.29,100.0,30.92,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00781,PORT00781,156974.29,100.0,40.3,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00782,PORT00782,97291.57,100.0,41.97,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00783,PORT00783,62176.26,100.0,73.79,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00784,PORT00784,167506.88,100.0,52.36,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00785,PORT00785,101131.55,100.0,30.2,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00786,PORT00786,142523.67,100.0,33.86,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00787,PORT00787,130600.1,100.0,35.46,Needs Review,Target allocation validation requires review.
+PROP00788,PORT00788,198318.06,100.0,24.01,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00789,PORT00789,91658.89,100.0,30.54,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00790,PORT00790,111452.53,100.0,34.82,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00791,PORT00791,80450.08,100.0,43.93,Needs Review,Target allocation validation requires review.
+PROP00792,PORT00792,77662.65,100.0,33.45,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00793,PORT00793,165852.48,100.0,32.26,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00794,PORT00794,67508.46,100.0,30.26,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00795,PORT00795,110129.1,100.0,72.5,Needs Review,Target allocation validation requires review.
+PROP00796,PORT00796,40112.35,100.0,69.52,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00797,PORT00797,102173.75,100.0,32.11,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00798,PORT00798,74635.32,100.0,69.1,Needs Review,Target allocation validation requires review.
+PROP00799,PORT00799,72206.65,100.0,61.51,Needs Review,Target allocation validation requires review.
+PROP00800,PORT00800,175739.93,100.0,32.19,Needs Review,Target allocation validation requires review.
+PROP00801,PORT00801,123440.73,100.0,14.26,Needs Review,Target allocation validation requires review.
+PROP00802,PORT00802,84987.82,100.0,67.83,Needs Review,Target allocation validation requires review.
+PROP00803,PORT00803,259904.52,100.0,37.7,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00804,PORT00804,128544.43,100.0,54.01,Needs Review,Target allocation validation requires review.
+PROP00805,PORT00805,63446.81,100.0,51.43,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00806,PORT00806,161729.98,100.0,36.77,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00807,PORT00807,122597.89,100.0,36.03,Needs Review,Target allocation validation requires review.
+PROP00808,PORT00808,125135.54,100.0,58.18,Needs Review,Target allocation validation requires review.
+PROP00809,PORT00809,171623.7,100.0,38.05,Needs Review,Target allocation validation requires review.
+PROP00810,PORT00810,126410.67,100.0,22.46,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00811,PORT00811,198226.2,100.0,38.8,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00812,PORT00812,51971.17,100.0,42.38,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00813,PORT00813,55787.71,100.0,36.61,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00814,PORT00814,119196.2,100.0,27.39,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00815,PORT00815,101685.52,100.0,22.31,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00816,PORT00816,243491.91,100.0,27.75,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00817,PORT00817,79530.8,100.0,24.32,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00818,PORT00818,100307.66,100.0,35.75,Needs Review,Target allocation validation requires review.
+PROP00819,PORT00819,218244.41,100.0,54.12,Needs Review,Target allocation validation requires review.
+PROP00820,PORT00820,142603.26,100.0,17.37,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00821,PORT00821,234149.55,100.0,38.12,Needs Review,Target allocation validation requires review.
+PROP00822,PORT00822,138349.97,100.0,18.7,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00823,PORT00823,87756.2,100.0,24.94,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00824,PORT00824,131537.59,100.0,67.11,Needs Review,Target allocation validation requires review.
+PROP00825,PORT00825,120029.51,100.0,62.34,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00826,PORT00826,140970.39,100.0,30.5,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00827,PORT00827,149435.8,100.0,22.29,Needs Review,Target allocation validation requires review.
+PROP00828,PORT00828,71491.44,100.0,49.38,Needs Review,Target allocation validation requires review.
+PROP00829,PORT00829,106148.72,100.0,33.66,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00830,PORT00830,56851.48,100.0,42.41,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00831,PORT00831,204214.73,100.0,18.6,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00832,PORT00832,183856.25,100.0,43.46,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00833,PORT00833,114090.11,100.0,59.79,Needs Review,Target allocation validation requires review.
+PROP00834,PORT00834,202342.07,100.0,31.73,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00835,PORT00835,34431.35,100.0,36.73,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00836,PORT00836,137416.11,100.0,40.07,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00837,PORT00837,163875.67,100.0,45.15,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00838,PORT00838,83882.39,100.0,29.16,Needs Review,Target allocation validation requires review.
+PROP00839,PORT00839,76746.16,100.0,84.64,Needs Review,Target allocation validation requires review.
+PROP00840,PORT00840,238687.4,100.0,26.79,Needs Review,Target allocation validation requires review.
+PROP00841,PORT00841,121910.82,100.0,45.97,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00842,PORT00842,156627.16,100.0,19.86,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00843,PORT00843,125499.48,100.0,47.23,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00844,PORT00844,56885.03,100.0,45.63,Needs Review,Target allocation validation requires review.
+PROP00845,PORT00845,104477.49,100.0,12.85,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00846,PORT00846,120208.76,100.0,45.38,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00847,PORT00847,67923.58,100.0,20.25,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00848,PORT00848,68351.51,100.0,55.21,Needs Review,Target allocation validation requires review.
+PROP00849,PORT00849,134031.71,100.0,37.28,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00850,PORT00850,110264.38,100.0,53.3,Needs Review,Target allocation validation requires review.
+PROP00851,PORT00851,132052.87,100.0,26.08,Needs Review,Target allocation validation requires review.
+PROP00852,PORT00852,39345.91,100.0,74.15,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00853,PORT00853,163475.81,100.0,28.95,Needs Review,Target allocation validation requires review.
+PROP00854,PORT00854,185217.08,100.0,27.0,Needs Review,Target allocation validation requires review.
+PROP00855,PORT00855,134809.71,100.0,55.08,Needs Review,Target allocation validation requires review.
+PROP00856,PORT00856,202173.64,100.0,37.05,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00857,PORT00857,149797.52,100.0,45.77,Needs Review,Target allocation validation requires review.
+PROP00858,PORT00858,75941.23,100.0,41.6,Needs Review,Target allocation validation requires review.
+PROP00859,PORT00859,136862.61,100.0,38.6,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00860,PORT00860,126043.82,100.0,65.04,Needs Review,Target allocation validation requires review.
+PROP00861,PORT00861,80085.5,100.0,50.41,Needs Review,Target allocation validation requires review.
+PROP00862,PORT00862,69458.11,100.0,36.9,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00863,PORT00863,183728.28,100.0,17.73,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00864,PORT00864,112835.3,100.0,38.91,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00865,PORT00865,153087.6,100.0,11.74,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00866,PORT00866,145664.38,100.0,42.36,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00867,PORT00867,21829.82,100.0,32.73,Needs Review,Target allocation validation requires review.
+PROP00868,PORT00868,165540.82,100.0,34.25,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00869,PORT00869,146296.25,100.0,39.08,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00870,PORT00870,43314.51,100.0,16.76,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00871,PORT00871,157018.04,100.0,33.21,Needs Review,Target allocation validation requires review.
+PROP00872,PORT00872,102938.83,100.0,34.43,Needs Review,Target allocation validation requires review.
+PROP00873,PORT00873,182011.61,100.0,33.29,Needs Review,Target allocation validation requires review.
+PROP00874,PORT00874,156287.13,100.0,38.19,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00875,PORT00875,69698.48,100.0,50.38,Needs Review,Target allocation validation requires review.
+PROP00876,PORT00876,128695.42,100.0,38.39,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00877,PORT00877,113449.19,100.0,46.88,Needs Review,Target allocation validation requires review.
+PROP00878,PORT00878,191953.59,100.0,43.75,Needs Review,Target allocation validation requires review.
+PROP00879,PORT00879,124143.52,100.0,18.89,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00880,PORT00880,144845.94,100.0,49.68,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00881,PORT00881,126512.97,100.0,26.22,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00882,PORT00882,124890.93,100.0,24.23,Needs Review,Target allocation validation requires review.
+PROP00883,PORT00883,112689.84,100.0,45.28,Needs Review,Target allocation validation requires review.
+PROP00884,PORT00884,140225.26,100.0,32.53,Needs Review,Target allocation validation requires review.
+PROP00885,PORT00885,100237.38,100.0,30.82,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00886,PORT00886,162405.49,100.0,32.6,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00887,PORT00887,70018.08,100.0,23.43,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00888,PORT00888,108054.68,100.0,60.37,Needs Review,Target allocation validation requires review.
+PROP00889,PORT00889,149826.68,100.0,36.24,Needs Review,Target allocation validation requires review.
+PROP00890,PORT00890,104799.23,100.0,61.2,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00891,PORT00891,113677.57,100.0,45.69,Needs Review,Target allocation validation requires review.
+PROP00892,PORT00892,34002.61,100.0,24.47,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00893,PORT00893,89684.93,100.0,68.88,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00894,PORT00894,74374.97,100.0,47.18,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00895,PORT00895,155532.03,100.0,16.0,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00896,PORT00896,77452.64,100.0,64.24,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00897,PORT00897,84396.86,100.0,39.42,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00898,PORT00898,115338.65,100.0,34.86,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00899,PORT00899,97338.6,100.0,38.68,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00900,PORT00900,148104.83,100.0,18.78,Needs Review,Target allocation validation requires review.
+PROP00901,PORT00901,200981.06,100.0,45.33,Needs Review,Target allocation validation requires review.
+PROP00902,PORT00902,158660.72,100.0,22.68,Needs Review,Target allocation validation requires review.
+PROP00903,PORT00903,137427.45,100.0,42.64,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00904,PORT00904,106908.36,100.0,20.53,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00905,PORT00905,94648.02,100.0,18.91,Needs Review,Target allocation validation requires review.
+PROP00906,PORT00906,149010.97,100.0,23.76,Needs Review,Target allocation validation requires review.
+PROP00907,PORT00907,108446.9,100.0,29.81,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00908,PORT00908,125950.64,100.0,29.03,Needs Review,Target allocation validation requires review.
+PROP00909,PORT00909,189183.44,100.0,52.15,Needs Review,Target allocation validation requires review.
+PROP00910,PORT00910,118175.78,100.0,25.07,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00911,PORT00911,81474.52,100.0,25.4,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00912,PORT00912,62737.25,100.0,50.47,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00913,PORT00913,194490.9,100.0,31.49,Needs Review,Target allocation validation requires review.
+PROP00914,PORT00914,120060.51,100.0,31.86,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00915,PORT00915,107448.39,100.0,17.0,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00916,PORT00916,102363.66,100.0,41.57,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00917,PORT00917,102078.06,100.0,51.65,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00918,PORT00918,142959.92,100.0,27.46,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00919,PORT00919,142026.92,100.0,44.61,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00920,PORT00920,89547.01,100.0,38.09,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00921,PORT00921,70079.47,100.0,29.52,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00922,PORT00922,215221.9,100.0,20.25,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00923,PORT00923,109094.8,100.0,37.5,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00924,PORT00924,81139.31,100.0,18.96,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00925,PORT00925,100336.61,100.0,27.89,Needs Review,Target allocation validation requires review.
+PROP00926,PORT00926,84703.4,100.0,36.18,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00927,PORT00927,80279.26,100.0,18.74,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00928,PORT00928,52943.09,100.0,24.23,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00929,PORT00929,126391.18,100.0,12.04,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00930,PORT00930,81592.4,100.0,57.79,Needs Review,Target allocation validation requires review.
+PROP00931,PORT00931,167742.16,100.0,45.16,Needs Review,Target allocation validation requires review.
+PROP00932,PORT00932,103864.2,100.0,23.01,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00933,PORT00933,95220.85,100.0,35.49,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00934,PORT00934,117856.03,100.0,48.57,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00935,PORT00935,112169.77,100.0,24.98,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00936,PORT00936,140302.64,100.0,45.33,Needs Review,Target allocation validation requires review.
+PROP00937,PORT00937,63583.79,100.0,55.55,Needs Review,Target allocation validation requires review.
+PROP00938,PORT00938,62497.68,100.0,24.13,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00939,PORT00939,273075.76,100.0,29.61,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00940,PORT00940,98882.85,100.0,36.03,Needs Review,Target allocation validation requires review.
+PROP00941,PORT00941,95467.23,100.0,21.36,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00942,PORT00942,53267.92,100.0,38.58,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00943,PORT00943,111588.44,100.0,50.15,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00944,PORT00944,275512.48,100.0,32.53,Needs Review,Target allocation validation requires review.
+PROP00945,PORT00945,164446.15,100.0,32.24,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00946,PORT00946,119657.6,100.0,51.4,Needs Review,Target allocation validation requires review.
+PROP00947,PORT00947,123830.78,100.0,15.8,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00948,PORT00948,41610.99,100.0,27.24,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00949,PORT00949,121348.51,100.0,46.0,Needs Review,Target allocation validation requires review.
+PROP00950,PORT00950,101592.68,100.0,22.26,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00951,PORT00951,124867.98,100.0,44.17,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00952,PORT00952,129663.48,100.0,11.24,Needs Review,Target allocation validation requires review.
+PROP00953,PORT00953,140521.27,100.0,39.08,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00954,PORT00954,193940.14,100.0,29.74,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00955,PORT00955,124451.18,100.0,45.9,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00956,PORT00956,91316.6,100.0,58.44,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00957,PORT00957,88610.24,100.0,48.01,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00958,PORT00958,171374.21,100.0,29.39,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00959,PORT00959,208709.47,100.0,34.4,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00960,PORT00960,98761.66,100.0,12.57,Needs Review,Target allocation validation requires review.
+PROP00961,PORT00961,143784.42,100.0,41.99,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00962,PORT00962,149842.69,100.0,21.69,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00963,PORT00963,92521.51,100.0,27.28,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00964,PORT00964,84013.3,100.0,44.76,Needs Review,Target allocation validation requires review.
+PROP00965,PORT00965,219943.68,100.0,27.21,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00966,PORT00966,72566.08,100.0,45.93,Needs Review,Target allocation validation requires review.
+PROP00967,PORT00967,112648.18,100.0,49.82,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00968,PORT00968,159005.4,100.0,43.99,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00969,PORT00969,94323.88,100.0,39.34,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00970,PORT00970,101868.79,100.0,79.62,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00971,PORT00971,205325.21,100.0,33.35,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00972,PORT00972,123156.7,100.0,33.76,Needs Review,Target allocation validation requires review.
+PROP00973,PORT00973,137659.41,100.0,27.33,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00974,PORT00974,150820.79,100.0,48.78,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00975,PORT00975,123657.19,100.0,16.56,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00976,PORT00976,127813.29,100.0,27.39,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00977,PORT00977,94811.9,100.0,27.33,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00978,PORT00978,132810.07,100.0,28.49,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00979,PORT00979,67939.21,100.0,33.92,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00980,PORT00980,83568.67,100.0,45.67,Needs Review,Target allocation validation requires review.
+PROP00981,PORT00981,180310.98,100.0,36.42,Needs Review,Target allocation validation requires review.
+PROP00982,PORT00982,117154.74,100.0,27.2,Needs Review,Target allocation validation requires review.
+PROP00983,PORT00983,74034.6,100.0,60.92,Needs Review,Target allocation validation requires review.
+PROP00984,PORT00984,73800.69,100.0,48.09,Needs Review,Target allocation validation requires review.
+PROP00985,PORT00985,124762.93,100.0,23.09,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00986,PORT00986,76972.28,100.0,38.13,Needs Review,Target allocation validation requires review.
+PROP00987,PORT00987,261213.69,100.0,37.38,Needs Review,Target allocation validation requires review.
+PROP00988,PORT00988,117593.92,100.0,28.34,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00989,PORT00989,154233.92,100.0,20.94,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00990,PORT00990,121564.42,100.0,26.58,Needs Review,Target allocation validation requires review.
+PROP00991,PORT00991,120679.88,100.0,43.42,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00992,PORT00992,140352.49,100.0,28.03,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00993,PORT00993,100779.47,100.0,62.94,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00994,PORT00994,173920.1,100.0,50.55,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00995,PORT00995,181182.34,100.0,26.14,Needs Review,Target allocation validation requires review.
+PROP00996,PORT00996,86631.14,100.0,17.92,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00997,PORT00997,88446.79,100.0,37.01,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00998,PORT00998,99412.64,100.0,30.62,Ready for Review,Allocation totals and position limits passed initial checks.
+PROP00999,PORT00999,77745.7,100.0,46.37,Needs Review,Target allocation validation requires review.
+PROP01000,PORT01000,115418.83,100.0,31.07,Ready for Review,Allocation totals and position limits passed initial checks.
